@@ -1,32 +1,15 @@
-.DS_Store
-~*
+# v0 sandbox internal files
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+.snowflake/
+.v0-trash/
+.vercel/
+
+# Environment variables
+.env*.local
+
+# Common ignores
 node_modules
-*.out
-.idea
-Generated
-tmp_*
-build
-*-temp
-OWASP_MSTG-SNAPSHOT-*
-OWASP_MAS_Checklist.xlsx
-logs
-*.pdf
-*.docx
-*.epub
-docs/talks.md
-owasp-masvs
-__pycache__
-venv/
-playground/
-__handlers__
-*.apk
-risks2/
-docs/MASVS/**/
-docs/MASVS/*-*.md
-docs/MASTG
-docs/MASWE
-docs/assets/Images
-OWASP_MASVS.yaml
-cross_references.yaml
-drafts/
-Payload/
+.next/
+.DS_Store
