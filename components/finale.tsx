@@ -22,11 +22,7 @@ export function Finale() {
         <p className="mx-auto mt-8 max-w-md text-pretty font-serif text-lg font-light italic leading-relaxed text-ivory/85">
           here&apos;s to thirty, and to every ordinary, extraordinary year after.
         </p>
-        <p className="mx-auto mt-10 max-w-sm text-pretty font-serif text-base font-light italic text-ivory/70">
-          Chapter 30 &mdash; and we&apos;re only getting started.
-        </p>
-        <p className="mt-16 font-sans text-[0.7rem] tracking-[0.5em] text-ivory/55">THE END</p>
-        <p className="mt-6 font-serif text-2xl font-light">love, Trezer</p>
+        <p className="mt-16 font-serif text-2xl font-light">love, Trezer</p>
         <HiddenLove />
       </Reveal>
     </section>
